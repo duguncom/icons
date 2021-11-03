@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?748vbn');
-  src:  url('fonts/dugun-icons.eot?748vbn#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?748vbn') format('truetype'),
-    url('fonts/dugun-icons.woff?748vbn') format('woff'),
-    url('fonts/dugun-icons.svg?748vbn#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?20q4tw');
+  src:  url('fonts/dugun-icons.eot?20q4tw#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?20q4tw') format('truetype'),
+    url('fonts/dugun-icons.woff?20q4tw') format('woff'),
+    url('fonts/dugun-icons.svg?20q4tw#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -139,9 +139,6 @@
 .icon-comment-heart-custom:before {
   content: "\e908";
 }
-.icon-diamond-custom:before {
-  content: "\e909";
-}
 .icon-fast-custom-colored .path1:before {
   content: "\e90a";
   color: rgb(60, 101, 172);
@@ -192,15 +189,6 @@
 }
 .icon-star-empty-custom:before {
   content: "\e91d";
-}
-.icon-star-half-custom-colored .path1:before {
-  content: "\e91e";
-  color: rgb(225, 225, 225);
-}
-.icon-star-half-custom-colored .path2:before {
-  content: "\e91f";
-  margin-left: -1em;
-  color: rgb(0, 171, 170);
 }
 .icon-video-heart-custom:before {
   content: "\e922";
@@ -303,6 +291,9 @@
 }
 .icon-times-light:before {
   content: "\f00d";
+}
+.icon-search-plus-light:before {
+  content: "\f014";
 }
 .icon-home-light:before {
   content: "\f015";
@@ -526,6 +517,9 @@
 .icon-times-regular:before {
   content: "\f00f";
 }
+.icon-search-plus-regular:before {
+  content: "\f018";
+}
 .icon-home-regular:before {
   content: "\f016";
 }
@@ -747,6 +741,9 @@
 }
 .icon-times-solid:before {
   content: "\f013";
+}
+.icon-search-plus-solid:before {
+  content: "\f019";
 }
 .icon-home-solid:before {
   content: "\f017";
