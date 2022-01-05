@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?c219kx');
-  src:  url('fonts/dugun-icons.eot?c219kx#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?c219kx') format('truetype'),
-    url('fonts/dugun-icons.woff?c219kx') format('woff'),
-    url('fonts/dugun-icons.svg?c219kx#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?oqzfye');
+  src:  url('fonts/dugun-icons.eot?oqzfye#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?oqzfye') format('truetype'),
+    url('fonts/dugun-icons.woff?oqzfye') format('woff'),
+    url('fonts/dugun-icons.svg?oqzfye#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-filters-custom:before {
+  content: "\e901";
+}
 .icon-website-custom:before {
   content: "\e957";
 }
@@ -54,63 +57,6 @@
 }
 .icon-video-custom:before {
   content: "\e961";
-}
-.icon-laptop-custom-colored .path1:before {
-  content: "\e946";
-  color: rgb(117, 112, 110);
-}
-.icon-laptop-custom-colored .path2:before {
-  content: "\e947";
-  margin-left: -1.1796875em;
-  color: rgb(117, 112, 110);
-}
-.icon-laptop-custom-colored .path3:before {
-  content: "\e948";
-  margin-left: -1.1796875em;
-  color: rgb(117, 112, 110);
-}
-.icon-laptop-custom-colored .path4:before {
-  content: "\e949";
-  margin-left: -1.1796875em;
-  color: rgb(117, 112, 110);
-}
-.icon-laptop-custom-colored .path5:before {
-  content: "\e94a";
-  margin-left: -1.1796875em;
-  color: rgb(250, 141, 134);
-}
-.icon-list-custom-colored .path1:before {
-  content: "\e94b";
-  color: rgb(117, 112, 110);
-}
-.icon-list-custom-colored .path2:before {
-  content: "\e94c";
-  margin-left: -1.33984375em;
-  color: rgb(250, 141, 134);
-}
-.icon-list-custom-colored .path3:before {
-  content: "\e94d";
-  margin-left: -1.33984375em;
-  color: rgb(117, 112, 110);
-}
-.icon-request-custom-colored .path1:before {
-  content: "\e94e";
-  color: rgb(250, 141, 134);
-}
-.icon-request-custom-colored .path2:before {
-  content: "\e94f";
-  margin-left: -2.73828125em;
-  color: rgb(117, 112, 110);
-}
-.icon-request-custom-colored .path3:before {
-  content: "\e950";
-  margin-left: -2.73828125em;
-  color: rgb(250, 141, 134);
-}
-.icon-request-custom-colored .path4:before {
-  content: "\e951";
-  margin-left: -2.73828125em;
-  color: rgb(255, 255, 255);
 }
 .icon-city-custom:before {
   content: "\e952";
@@ -184,9 +130,6 @@
 .icon-play-button-stroke-custom:before {
   content: "\e91b";
 }
-.icon-product-label-custom:before {
-  content: "\e91c";
-}
 .icon-star-empty-custom:before {
   content: "\e91d";
 }
@@ -204,9 +147,6 @@
 }
 .icon-wine-heart-custom:before {
   content: "\e925";
-}
-.icon-filters-custom:before {
-  content: "\e901";
 }
 .icon-show-more-custom:before {
   content: "\e900";
@@ -286,6 +226,9 @@
 .icon-user-light:before {
   content: "\f007";
 }
+.icon-th-large-light:before {
+  content: "\f01a";
+}
 .icon-check-light:before {
   content: "\f00c";
 }
@@ -303,6 +246,9 @@
 }
 .icon-flag-light:before {
   content: "\f024";
+}
+.icon-tags-light:before {
+  content: "\f02c";
 }
 .icon-book-light:before {
   content: "\f02d";
@@ -378,6 +324,9 @@
 }
 .icon-thumbtack-light:before {
   content: "\f090";
+}
+.icon-external-link-light:before {
+  content: "\f09d";
 }
 .icon-trophy-light:before {
   content: "\f091";
@@ -511,6 +460,9 @@
 .icon-user-regular:before {
   content: "\f009";
 }
+.icon-th-large-regular:before {
+  content: "\f01b";
+}
 .icon-check-regular:before {
   content: "\f00e";
 }
@@ -528,6 +480,9 @@
 }
 .icon-flag-regular:before {
   content: "\f026";
+}
+.icon-tags-regular:before {
+  content: "\f036";
 }
 .icon-book-regular:before {
   content: "\f02e";
@@ -603,6 +558,9 @@
 }
 .icon-thumbtack-regular:before {
   content: "\f094";
+}
+.icon-external-link-regular:before {
+  content: "\f09e";
 }
 .icon-trophy-regular:before {
   content: "\f092";
@@ -736,6 +694,9 @@
 .icon-user-solid:before {
   content: "\f011";
 }
+.icon-th-large-solid:before {
+  content: "\f01c";
+}
 .icon-check-solid:before {
   content: "\f012";
 }
@@ -753,6 +714,9 @@
 }
 .icon-flag-solid:before {
   content: "\f028";
+}
+.icon-tags-solid:before {
+  content: "\f037";
 }
 .icon-book-solid:before {
   content: "\f033";
@@ -828,6 +792,9 @@
 }
 .icon-thumbtack-solid:before {
   content: "\f08f";
+}
+.icon-external-link-solid:before {
+  content: "\f09f";
 }
 .icon-trophy-solid:before {
   content: "\f093";
