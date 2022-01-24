@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?oqzfye');
-  src:  url('fonts/dugun-icons.eot?oqzfye#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?oqzfye') format('truetype'),
-    url('fonts/dugun-icons.woff?oqzfye') format('woff'),
-    url('fonts/dugun-icons.svg?oqzfye#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?fbj3ww');
+  src:  url('fonts/dugun-icons.eot?fbj3ww#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?fbj3ww') format('truetype'),
+    url('fonts/dugun-icons.woff?fbj3ww') format('woff'),
+    url('fonts/dugun-icons.svg?fbj3ww#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-bolt-custom:before {
+  content: "\e902";
+}
 .icon-filters-custom:before {
   content: "\e901";
 }
@@ -84,15 +87,6 @@
 }
 .icon-comment-heart-custom:before {
   content: "\e908";
-}
-.icon-fast-custom-colored .path1:before {
-  content: "\e90a";
-  color: rgb(60, 101, 172);
-}
-.icon-fast-custom-colored .path2:before {
-  content: "\e90b";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-heart-red-custom-colored .path1:before {
   content: "\e911";
