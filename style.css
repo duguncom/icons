@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?a2riem');
-  src:  url('fonts/dugun-icons.eot?a2riem#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?a2riem') format('truetype'),
-    url('fonts/dugun-icons.woff?a2riem') format('woff'),
-    url('fonts/dugun-icons.svg?a2riem#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?i1y6rd');
+  src:  url('fonts/dugun-icons.eot?i1y6rd#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?i1y6rd') format('truetype'),
+    url('fonts/dugun-icons.woff?i1y6rd') format('woff'),
+    url('fonts/dugun-icons.svg?i1y6rd#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-dollar-budget-custom:before {
+  content: "\e903";
+}
 .icon-bolt-custom:before {
   content: "\e902";
 }
@@ -37,7 +40,7 @@
 .icon-agenda-custom:before {
   content: "\e958";
 }
-.icon-budget-custom:before {
+.icon-lira-budget-custom:before {
   content: "\e959";
 }
 .icon-seating-plan-custom:before {
@@ -222,6 +225,9 @@
 }
 .icon-home-light:before {
   content: "\f015";
+}
+.icon-redo-light:before {
+  content: "\f01e";
 }
 .icon-lock-light:before {
   content: "\f023";
@@ -457,6 +463,9 @@
 .icon-home-regular:before {
   content: "\f016";
 }
+.icon-redo-regular:before {
+  content: "\f01f";
+}
 .icon-lock-regular:before {
   content: "\f025";
 }
@@ -690,6 +699,9 @@
 }
 .icon-home-solid:before {
   content: "\f017";
+}
+.icon-redo-solid:before {
+  content: "\f020";
 }
 .icon-lock-solid:before {
   content: "\f027";
