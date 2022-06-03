@@ -334,6 +334,9 @@
 .icon-arrow-circle-up-light:before {
   content: "\f0aa";
 }
+.icon-briefcase-light:before {
+  content: "\f0b1";
+}
 .icon-link-light:before {
   content: "\f0c1";
 }
@@ -571,6 +574,9 @@
 .icon-arrow-circle-up-regular:before {
   content: "\f0ad";
 }
+.icon-briefcase-regular:before {
+  content: "\f0b2";
+}
 .icon-link-regular:before {
   content: "\f0c2";
 }
@@ -807,6 +813,9 @@
 }
 .icon-arrow-circle-up-solid:before {
   content: "\f0b0";
+}
+.icon-briefcase-solid:before {
+  content: "\f0b3";
 }
 .icon-link-solid:before {
   content: "\f0c3";
