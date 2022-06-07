@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?i1y6rd');
-  src:  url('fonts/dugun-icons.eot?i1y6rd#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?i1y6rd') format('truetype'),
-    url('fonts/dugun-icons.woff?i1y6rd') format('woff'),
-    url('fonts/dugun-icons.svg?i1y6rd#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?v4qsss');
+  src:  url('fonts/dugun-icons.eot?v4qsss#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?v4qsss') format('truetype'),
+    url('fonts/dugun-icons.woff?v4qsss') format('woff'),
+    url('fonts/dugun-icons.svg?v4qsss#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,115 +25,103 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-dollar-budget-custom:before {
+.icon-bolt-custom-solid:before {
+  content: "\e904";
+}
+.icon-dollar-budget-custom-regular:before {
   content: "\e903";
 }
-.icon-bolt-custom:before {
+.icon-bolt-custom-regular:before {
   content: "\e902";
 }
-.icon-filters-custom:before {
+.icon-filters-custom-regular:before {
   content: "\e901";
 }
-.icon-website-custom:before {
+.icon-website-custom-regular:before {
   content: "\e957";
 }
-.icon-agenda-custom:before {
+.icon-agenda-custom-regular:before {
   content: "\e958";
 }
-.icon-lira-budget-custom:before {
+.icon-lira-budget-custom-regular:before {
   content: "\e959";
 }
-.icon-seating-plan-custom:before {
+.icon-seating-plan-custom-regular:before {
   content: "\e95a";
 }
-.icon-weather-custom:before {
+.icon-weather-custom-regular:before {
   content: "\e95b";
 }
-.icon-article-custom:before {
+.icon-article-custom-solid:before {
   content: "\e95c";
 }
-.icon-explore-custom:before {
+.icon-explore-custom-solid:before {
   content: "\e95e";
 }
 .icon-fashion-custom-solid:before {
   content: "\e95f";
 }
-.icon-passport-custom:before {
+.icon-passport-custom-solid:before {
   content: "\e960";
 }
-.icon-video-custom:before {
+.icon-video-custom-solid:before {
   content: "\e961";
 }
-.icon-city-custom:before {
+.icon-city-custom-regular:before {
   content: "\e952";
 }
-.icon-ring-custom:before {
+.icon-ring-custom-regular:before {
   content: "\e953";
 }
-.icon-fashion-regular-custom:before {
+.icon-fashion-custom-regular:before {
   content: "\e954";
 }
-.icon-menu-register-custom:before {
+.icon-menu-register-custom-regular:before {
   content: "\e955";
 }
-.icon-tool-custom:before {
+.icon-tool-custom-regular:before {
   content: "\e956";
 }
-.icon-calendar-check-custom:before {
+.icon-calendar-check-custom-regular:before {
   content: "\e905";
 }
-.icon-calendar-exclamation-custom:before {
+.icon-calendar-exclamation-custom-regular:before {
   content: "\e906";
 }
-.icon-camera-heart-custom:before {
+.icon-camera-heart-custom-light:before {
   content: "\e907";
 }
-.icon-comment-heart-custom:before {
+.icon-comment-heart-custom-light:before {
   content: "\e908";
 }
-.icon-letter-custom:before {
+.icon-letter-custom-light:before {
   content: "\e913";
 }
-.icon-mail-custom:before {
-  content: "\e914";
-}
-.icon-map-marker-custom:before {
+.icon-map-marker-custom-regular:before {
   content: "\e915";
 }
-.icon-membership-custom:before {
-  content: "\e916";
-}
-.icon-pin-custom:before {
+.icon-pin-custom-solid:before {
   content: "\e918";
 }
-.icon-play-button-custom-colored .path1:before {
+.icon-play-button-custom-colored-solid .path1:before {
   content: "\e919";
   color: rgb(255, 61, 0);
 }
-.icon-play-button-custom-colored .path2:before {
+.icon-play-button-custom-colored-solid .path2:before {
   content: "\e91a";
   margin-left: -1em;
   color: rgb(255, 255, 255);
 }
-.icon-play-button-stroke-custom:before {
+.icon-play-button-stroke-custom-regular:before {
   content: "\e91b";
 }
-.icon-video-heart-custom:before {
+.icon-video-heart-custom-light:before {
   content: "\e922";
 }
-.icon-vip-custom .path1:before {
-  content: "\e923";
-  color: rgb(0, 0, 0);
-}
-.icon-vip-custom .path2:before {
-  content: "\e924";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.icon-wine-heart-custom:before {
+.icon-wine-heart-custom-light:before {
   content: "\e925";
 }
-.icon-show-more-custom:before {
+.icon-show-more-custom-regular:before {
   content: "\e900";
 }
 .icon-facebook-brand:before {
@@ -226,9 +214,6 @@
 .icon-home-light:before {
   content: "\f015";
 }
-.icon-redo-light:before {
-  content: "\f01e";
-}
 .icon-lock-light:before {
   content: "\f023";
 }
@@ -309,6 +294,9 @@
 }
 .icon-chevron-down-light:before {
   content: "\f07b";
+}
+.icon-comments:before {
+  content: "\f0a0";
 }
 .icon-thumbtack-light:before {
   content: "\f090";
@@ -409,6 +397,9 @@
 .icon-birthday-cake-light:before {
   content: "\f1fd";
 }
+.icon-map:before {
+  content: "\f279";
+}
 .icon-handshake-light:before {
   content: "\f2b5";
 }
@@ -439,6 +430,9 @@
 .icon-grin-light:before {
   content: "\f580";
 }
+.icon-location:before {
+  content: "\f601";
+}
 .icon-search-regular:before {
   content: "\f003";
 }
@@ -465,9 +459,6 @@
 }
 .icon-home-regular:before {
   content: "\f016";
-}
-.icon-redo-regular:before {
-  content: "\f01f";
 }
 .icon-lock-regular:before {
   content: "\f025";
@@ -549,6 +540,9 @@
 }
 .icon-chevron-down-regular:before {
   content: "\f07e";
+}
+.icon-comments1:before {
+  content: "\f0a1";
 }
 .icon-thumbtack-regular:before {
   content: "\f094";
@@ -649,6 +643,9 @@
 .icon-birthday-cake-regular:before {
   content: "\f1fe";
 }
+.icon-map1:before {
+  content: "\f27a";
+}
 .icon-handshake-regular:before {
   content: "\f2b6";
 }
@@ -679,6 +676,9 @@
 .icon-grin-regular:before {
   content: "\f581";
 }
+.icon-location1:before {
+  content: "\f602";
+}
 .icon-search-solid:before {
   content: "\f00a";
 }
@@ -705,9 +705,6 @@
 }
 .icon-home-solid:before {
   content: "\f017";
-}
-.icon-redo-solid:before {
-  content: "\f020";
 }
 .icon-lock-solid:before {
   content: "\f027";
@@ -789,6 +786,9 @@
 }
 .icon-chevron-down-solid:before {
   content: "\f083";
+}
+.icon-comments2:before {
+  content: "\f0a2";
 }
 .icon-thumbtack-solid:before {
   content: "\f08f";
@@ -889,6 +889,9 @@
 .icon-birthday-cake-solid:before {
   content: "\f1ff";
 }
+.icon-map2:before {
+  content: "\f27b";
+}
 .icon-handshake-solid:before {
   content: "\f2b7";
 }
@@ -918,4 +921,7 @@
 }
 .icon-grin-solid:before {
   content: "\f582";
+}
+.icon-location2:before {
+  content: "\f603";
 }
