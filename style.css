@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?v4qsss');
-  src:  url('fonts/dugun-icons.eot?v4qsss#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?v4qsss') format('truetype'),
-    url('fonts/dugun-icons.woff?v4qsss') format('woff'),
-    url('fonts/dugun-icons.svg?v4qsss#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?jh2blk');
+  src:  url('fonts/dugun-icons.eot?jh2blk#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?jh2blk') format('truetype'),
+    url('fonts/dugun-icons.woff?jh2blk') format('woff'),
+    url('fonts/dugun-icons.svg?jh2blk#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -295,7 +295,7 @@
 .icon-chevron-down-light:before {
   content: "\f07b";
 }
-.icon-comments:before {
+.icon-comments-light:before {
   content: "\f0a0";
 }
 .icon-thumbtack-light:before {
@@ -397,7 +397,7 @@
 .icon-birthday-cake-light:before {
   content: "\f1fd";
 }
-.icon-map:before {
+.icon-map-light:before {
   content: "\f279";
 }
 .icon-handshake-light:before {
@@ -430,7 +430,7 @@
 .icon-grin-light:before {
   content: "\f580";
 }
-.icon-location:before {
+.icon-location-light:before {
   content: "\f601";
 }
 .icon-search-regular:before {
@@ -541,7 +541,7 @@
 .icon-chevron-down-regular:before {
   content: "\f07e";
 }
-.icon-comments1:before {
+.icon-comments-regular:before {
   content: "\f0a1";
 }
 .icon-thumbtack-regular:before {
@@ -643,7 +643,7 @@
 .icon-birthday-cake-regular:before {
   content: "\f1fe";
 }
-.icon-map1:before {
+.icon-map-regular:before {
   content: "\f27a";
 }
 .icon-handshake-regular:before {
@@ -676,7 +676,7 @@
 .icon-grin-regular:before {
   content: "\f581";
 }
-.icon-location1:before {
+.icon-location-regular:before {
   content: "\f602";
 }
 .icon-search-solid:before {
@@ -787,7 +787,7 @@
 .icon-chevron-down-solid:before {
   content: "\f083";
 }
-.icon-comments2:before {
+.icon-comments-solid:before {
   content: "\f0a2";
 }
 .icon-thumbtack-solid:before {
@@ -889,7 +889,7 @@
 .icon-birthday-cake-solid:before {
   content: "\f1ff";
 }
-.icon-map2:before {
+.icon-map-solid:before {
   content: "\f27b";
 }
 .icon-handshake-solid:before {
@@ -922,6 +922,6 @@
 .icon-grin-solid:before {
   content: "\f582";
 }
-.icon-location2:before {
+.icon-location-solid:before {
   content: "\f603";
 }
