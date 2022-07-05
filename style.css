@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?jh2blk');
-  src:  url('fonts/dugun-icons.eot?jh2blk#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?jh2blk') format('truetype'),
-    url('fonts/dugun-icons.woff?jh2blk') format('woff'),
-    url('fonts/dugun-icons.svg?jh2blk#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?z1o7ko');
+  src:  url('fonts/dugun-icons.eot?z1o7ko#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?z1o7ko') format('truetype'),
+    url('fonts/dugun-icons.woff?z1o7ko') format('woff'),
+    url('fonts/dugun-icons.svg?z1o7ko#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -415,6 +415,9 @@
 .icon-images-light:before {
   content: "\f302";
 }
+.icon-exchange-light:before {
+  content: "\f362";
+}
 .icon-map-marker-light:before {
   content: "\f3c5";
 }
@@ -661,6 +664,9 @@
 .icon-images-regular:before {
   content: "\f303";
 }
+.icon-exchange-regular:before {
+  content: "\f363";
+}
 .icon-map-marker-regular:before {
   content: "\f3c6";
 }
@@ -906,6 +912,9 @@
 }
 .icon-images-solid:before {
   content: "\f304";
+}
+.icon-exchange-solid:before {
+  content: "\f364";
 }
 .icon-map-marker-solid:before {
   content: "\f3c7";
