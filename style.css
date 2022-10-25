@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?f3d8gl');
-  src:  url('fonts/dugun-icons.eot?f3d8gl#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?f3d8gl') format('truetype'),
-    url('fonts/dugun-icons.woff?f3d8gl') format('woff'),
-    url('fonts/dugun-icons.svg?f3d8gl#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?qn36mh');
+  src:  url('fonts/dugun-icons.eot?qn36mh#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?qn36mh') format('truetype'),
+    url('fonts/dugun-icons.woff?qn36mh') format('woff'),
+    url('fonts/dugun-icons.svg?qn36mh#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -358,6 +358,12 @@
 .icon-circle-light:before {
   content: "\f111";
 }
+.icon-chevron-circle-up:before {
+  content: "\f139";
+}
+.icon-chevron-circle-down:before {
+  content: "\f13a";
+}
 .icon-ellipsis-v-light:before {
   content: "\f142";
 }
@@ -607,6 +613,12 @@
 .icon-circle-regular:before {
   content: "\f112";
 }
+.icon-chevron-circle-up1:before {
+  content: "\f13b";
+}
+.icon-chevron-circle-down1:before {
+  content: "\f13c";
+}
 .icon-ellipsis-v-regular:before {
   content: "\f143";
 }
@@ -855,6 +867,12 @@
 }
 .icon-circle-solid:before {
   content: "\f115";
+}
+.icon-chevron-circle-up2:before {
+  content: "\f13d";
+}
+.icon-chevron-circle-down2:before {
+  content: "\f13e";
 }
 .icon-ellipsis-v-solid:before {
   content: "\f144";
