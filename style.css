@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?qn36mh');
-  src:  url('fonts/dugun-icons.eot?qn36mh#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?qn36mh') format('truetype'),
-    url('fonts/dugun-icons.woff?qn36mh') format('woff'),
-    url('fonts/dugun-icons.svg?qn36mh#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?7290wr');
+  src:  url('fonts/dugun-icons.eot?7290wr#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?7290wr') format('truetype'),
+    url('fonts/dugun-icons.woff?7290wr') format('woff'),
+    url('fonts/dugun-icons.svg?7290wr#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -403,6 +403,9 @@
 .icon-address-card-light:before {
   content: "\f2bb";
 }
+.icon-user-circle:before {
+  content: "\f2be";
+}
 .icon-sign-out-light:before {
   content: "\f2f5";
 }
@@ -420,6 +423,9 @@
 }
 .icon-window-close-light:before {
   content: "\f410";
+}
+.icon-comment-alt-check:before {
+  content: "\f4a2";
 }
 .icon-comment-dots-light:before {
   content: "\f4a3";
@@ -658,6 +664,9 @@
 .icon-address-card-regular:before {
   content: "\f2bc";
 }
+.icon-user-circle-regular:before {
+  content: "\f2bf";
+}
 .icon-sign-out-regular:before {
   content: "\f2f7";
 }
@@ -675,6 +684,9 @@
 }
 .icon-window-close-regular:before {
   content: "\f411";
+}
+.icon-comment-alt-check1:before {
+  content: "\f4a6";
 }
 .icon-comment-dots-regular:before {
   content: "\f4a4";
@@ -913,6 +925,9 @@
 .icon-address-card-solid:before {
   content: "\f2bd";
 }
+.icon-user-circle-solid:before {
+  content: "\f2c0";
+}
 .icon-sign-out-solid:before {
   content: "\f2f9";
 }
@@ -930,6 +945,9 @@
 }
 .icon-window-close-solid:before {
   content: "\f412";
+}
+.icon-comment-alt-check2:before {
+  content: "\f4a7";
 }
 .icon-comment-dots-solid:before {
   content: "\f4a5";
