@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?7290wr');
-  src:  url('fonts/dugun-icons.eot?7290wr#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?7290wr') format('truetype'),
-    url('fonts/dugun-icons.woff?7290wr') format('woff'),
-    url('fonts/dugun-icons.svg?7290wr#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?16rf3d');
+  src:  url('fonts/dugun-icons.eot?16rf3d#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?16rf3d') format('truetype'),
+    url('fonts/dugun-icons.woff?16rf3d') format('woff'),
+    url('fonts/dugun-icons.svg?16rf3d#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -403,7 +403,7 @@
 .icon-address-card-light:before {
   content: "\f2bb";
 }
-.icon-user-circle:before {
+.icon-user-circle-light:before {
   content: "\f2be";
 }
 .icon-sign-out-light:before {
@@ -438,6 +438,9 @@
 }
 .icon-location-light:before {
   content: "\f601";
+}
+.icon-ruler-triangle-light:before {
+  content: "\f61c";
 }
 .icon-search-regular:before {
   content: "\f003";
@@ -700,6 +703,9 @@
 .icon-location-regular:before {
   content: "\f602";
 }
+.icon-ruler-triangle-reguler:before {
+  content: "\f61d";
+}
 .icon-search-solid:before {
   content: "\f00a";
 }
@@ -960,4 +966,7 @@
 }
 .icon-location-solid:before {
   content: "\f603";
+}
+.icon-ruler-triangle-solid:before {
+  content: "\f61e";
 }
