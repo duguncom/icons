@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?acnbol');
-  src:  url('fonts/dugun-icons.eot?acnbol#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?acnbol') format('truetype'),
-    url('fonts/dugun-icons.woff?acnbol') format('woff'),
-    url('fonts/dugun-icons.svg?acnbol#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?e4eduf');
+  src:  url('fonts/dugun-icons.eot?e4eduf#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?e4eduf') format('truetype'),
+    url('fonts/dugun-icons.woff?e4eduf') format('woff'),
+    url('fonts/dugun-icons.svg?e4eduf#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -313,6 +313,9 @@
 .icon-arrow-circle-up-light:before {
   content: "\f0aa";
 }
+.icon-arrow-circle-down:before {
+  content: "\f0b4";
+}
 .icon-briefcase-light:before {
   content: "\f0b1";
 }
@@ -406,7 +409,7 @@
 .icon-address-card-light:before {
   content: "\f2bb";
 }
-.icon-user-circle-light:before {
+.icon-user-circle:before {
   content: "\f2be";
 }
 .icon-sign-out-light:before {
@@ -664,7 +667,7 @@
 .icon-address-card-regular:before {
   content: "\f2bc";
 }
-.icon-user-circle-regular:before {
+.icon-user-circle1:before {
   content: "\f2bf";
 }
 .icon-sign-out-regular:before {
@@ -922,7 +925,7 @@
 .icon-address-card-solid:before {
   content: "\f2bd";
 }
-.icon-user-circle-solid:before {
+.icon-user-circle2:before {
   content: "\f2c0";
 }
 .icon-sign-out-solid:before {
