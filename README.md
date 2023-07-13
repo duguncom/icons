@@ -17,8 +17,8 @@ http://icons.dugun.work/
 
 ## UYARI 1:
 Bu yüzden icon kütüphanesi güncellenmesi sonrası **icons** projesini de güncellemeyin unutmayın.
+Yaptığınız yeni ikon seçimi veya yeni ikon eklemekten bağımsız olarak ikon seçimleri yapıldıktan sonra `Dugun.com.json` ve `selection.json` güncellemeyi unutmayınız.
     
-
 ## UYARI 2:
  Projedeki isimlendirme kurallarına riayet edelim. Light, regular, bold, custom, brands isminde 4 farklı icon grubumuz var. Yeni eklenecek icon isimlerini buna uygun düzenleyelim. Yeni bir icon grubu ekleyecek iseniz de aynı kurallara uyalım.
  
