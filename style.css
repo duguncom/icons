@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?16rf3d');
-  src:  url('fonts/dugun-icons.eot?16rf3d#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?16rf3d') format('truetype'),
-    url('fonts/dugun-icons.woff?16rf3d') format('woff'),
-    url('fonts/dugun-icons.svg?16rf3d#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?acnbol');
+  src:  url('fonts/dugun-icons.eot?acnbol#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?acnbol') format('truetype'),
+    url('fonts/dugun-icons.woff?acnbol') format('woff'),
+    url('fonts/dugun-icons.svg?acnbol#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -337,6 +337,9 @@
 .icon-bolt-light:before {
   content: "\f0e7";
 }
+.icon-angle-double-down:before {
+  content: "\f103";
+}
 .icon-angle-left-light:before {
   content: "\f104";
 }
@@ -424,9 +427,6 @@
 .icon-window-close-light:before {
   content: "\f410";
 }
-.icon-comment-alt-check:before {
-  content: "\f4a2";
-}
 .icon-comment-dots-light:before {
   content: "\f4a3";
 }
@@ -438,9 +438,6 @@
 }
 .icon-location-light:before {
   content: "\f601";
-}
-.icon-ruler-triangle-light:before {
-  content: "\f61c";
 }
 .icon-search-regular:before {
   content: "\f003";
@@ -688,9 +685,6 @@
 .icon-window-close-regular:before {
   content: "\f411";
 }
-.icon-comment-alt-check1:before {
-  content: "\f4a6";
-}
 .icon-comment-dots-regular:before {
   content: "\f4a4";
 }
@@ -702,9 +696,6 @@
 }
 .icon-location-regular:before {
   content: "\f602";
-}
-.icon-ruler-triangle-reguler:before {
-  content: "\f61d";
 }
 .icon-search-solid:before {
   content: "\f00a";
@@ -952,9 +943,6 @@
 .icon-window-close-solid:before {
   content: "\f412";
 }
-.icon-comment-alt-check2:before {
-  content: "\f4a7";
-}
 .icon-comment-dots-solid:before {
   content: "\f4a5";
 }
@@ -966,7 +954,4 @@
 }
 .icon-location-solid:before {
   content: "\f603";
-}
-.icon-ruler-triangle-solid:before {
-  content: "\f61e";
 }

@@ -902,7 +902,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 544,
+        "order": 687,
         "id": 0,
         "name": "show-more-custom-regular",
         "prevSize": 32,
@@ -2948,6 +2948,34 @@
     {
       "icon": {
         "paths": [
+          "M239 525.8l-232-235.602c-9.4-9.398-9.4-24.6 0-34l14.199-14.199c9.4-9.4 24.602-9.4 34 0l200.8 204.6 200.8-204.4c9.398-9.398 24.6-9.398 34 0l14.199 14.201c9.4 9.4 9.4 24.6 0 34l-232 235.6c-9.4 9.199-24.6 9.199-34-0.199zM273 781.801c-9.4 9.398-24.6 9.398-34 0.199l-232-235.6c-9.4-9.4-9.4-24.6 0-34l14.199-14.201c9.4-9.398 24.602-9.398 34 0l200.8 204.4 200.8-204.6c9.398-9.4 24.6-9.4 34 0l14.199 14.199c9.4 9.4 9.4 24.602 0 34z"
+        ],
+        "width": 512,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "angle-double-down"
+        ],
+        "defaultCode": 61699,
+        "grid": 0,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "id": 198,
+        "order": 694,
+        "ligatures": "",
+        "prevSize": 32,
+        "name": "angle-double-down",
+        "code": 61699
+      },
+      "setIdx": 2,
+      "setId": 2,
+      "iconIdx": 197
+    },
+    {
+      "icon": {
+        "paths": [
           "M50.199 495l235.602-232c9.398-9.4 24.6-9.4 34 0l14.199 14.199c9.4 9.4 9.4 24.602 0 34l-204.6 200.8 204.4 200.8c9.398 9.398 9.398 24.6 0 34l-14.201 14.199c-9.4 9.4-24.6 9.4-34 0l-235.6-232c-9.199-9.4-9.199-24.6 0.199-34z"
         ],
         "width": 384,
@@ -3158,8 +3186,8 @@
         "order": 688,
         "ligatures": "",
         "prevSize": 32,
-        "code": 61753,
-        "name": "chevron-circle-up"
+        "name": "chevron-circle-up",
+        "code": 61753
       },
       "setIdx": 2,
       "setId": 2,
@@ -3182,11 +3210,11 @@
       "attrs": [],
       "properties": {
         "id": 240,
-        "order": 687,
+        "order": 689,
         "ligatures": "",
         "prevSize": 32,
-        "code": 61754,
-        "name": "chevron-circle-down"
+        "name": "chevron-circle-down",
+        "code": 61754
       },
       "setIdx": 2,
       "setId": 2,
@@ -5499,11 +5527,11 @@
       "attrs": [],
       "properties": {
         "id": 239,
-        "order": 689,
+        "order": 691,
         "ligatures": "",
         "prevSize": 32,
-        "code": 61755,
-        "name": "chevron-circle-up1"
+        "name": "chevron-circle-up1",
+        "code": 61755
       },
       "setIdx": 3,
       "setId": 1,
@@ -5529,8 +5557,8 @@
         "order": 690,
         "ligatures": "",
         "prevSize": 32,
-        "code": 61756,
-        "name": "chevron-circle-down1"
+        "name": "chevron-circle-down1",
+        "code": 61756
       },
       "setIdx": 3,
       "setId": 1,
@@ -7842,11 +7870,11 @@
       "attrs": [],
       "properties": {
         "id": 239,
-        "order": 691,
+        "order": 692,
         "ligatures": "",
         "prevSize": 32,
-        "code": 61757,
-        "name": "chevron-circle-up2"
+        "name": "chevron-circle-up2",
+        "code": 61757
       },
       "setIdx": 4,
       "setId": 0,
@@ -7869,11 +7897,11 @@
       "attrs": [],
       "properties": {
         "id": 240,
-        "order": 692,
+        "order": 693,
         "ligatures": "",
         "prevSize": 32,
-        "code": 61758,
-        "name": "chevron-circle-down2"
+        "name": "chevron-circle-down2",
+        "code": 61758
       },
       "setIdx": 4,
       "setId": 0,
@@ -8552,7 +8580,10 @@
       "color": 0,
       "bgColor": 16777215,
       "classSelector": ".icon",
-      "name": "icomoon"
+      "name": "icomoon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
     },
     "historySize": 50,
     "showCodes": false,
