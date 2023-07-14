@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?acnbol');
-  src:  url('fonts/dugun-icons.eot?acnbol#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?acnbol') format('truetype'),
-    url('fonts/dugun-icons.woff?acnbol') format('woff'),
-    url('fonts/dugun-icons.svg?acnbol#dugun-icons') format('svg');
+  src:  url('fonts/dugun-icons.eot?kqflpu');
+  src:  url('fonts/dugun-icons.eot?kqflpu#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?kqflpu') format('truetype'),
+    url('fonts/dugun-icons.woff?kqflpu') format('woff'),
+    url('fonts/dugun-icons.svg?kqflpu#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -313,6 +313,9 @@
 .icon-arrow-circle-up-light:before {
   content: "\f0aa";
 }
+.icon-arrow-circle-down-light:before {
+  content: "\f0b4";
+}
 .icon-briefcase-light:before {
   content: "\f0b1";
 }
@@ -361,10 +364,10 @@
 .icon-circle-light:before {
   content: "\f111";
 }
-.icon-chevron-circle-up:before {
+.icon-chevron-circle-up-light:before {
   content: "\f139";
 }
-.icon-chevron-circle-down:before {
+.icon-chevron-circle-down-light:before {
   content: "\f13a";
 }
 .icon-ellipsis-v-light:before {
@@ -619,10 +622,10 @@
 .icon-circle-regular:before {
   content: "\f112";
 }
-.icon-chevron-circle-up1:before {
+.icon-chevron-circle-up-regular:before {
   content: "\f13b";
 }
-.icon-chevron-circle-down1:before {
+.icon-chevron-circle-down-regular:before {
   content: "\f13c";
 }
 .icon-ellipsis-v-regular:before {
@@ -877,10 +880,10 @@
 .icon-circle-solid:before {
   content: "\f115";
 }
-.icon-chevron-circle-up2:before {
+.icon-chevron-circle-up-solid:before {
   content: "\f13d";
 }
-.icon-chevron-circle-down2:before {
+.icon-chevron-circle-down-solid:before {
   content: "\f13e";
 }
 .icon-ellipsis-v-solid:before {
