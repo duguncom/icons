@@ -2746,7 +2746,7 @@
         "ligatures": "",
         "prevSize": 32,
         "code": 61620,
-        "name": "arrow-circle-down"
+        "name": "arrow-circle-down-light"
       },
       "setIdx": 2,
       "setId": 2,
@@ -3213,7 +3213,7 @@
         "order": 688,
         "ligatures": "",
         "prevSize": 32,
-        "name": "chevron-circle-up",
+        "name": "chevron-circle-up-light",
         "code": 61753
       },
       "setIdx": 2,
@@ -3240,7 +3240,7 @@
         "order": 689,
         "ligatures": "",
         "prevSize": 32,
-        "name": "chevron-circle-down",
+        "name": "chevron-circle-down-light",
         "code": 61754
       },
       "setIdx": 2,
@@ -3631,7 +3631,7 @@
         "ligatures": "",
         "prevSize": 32,
         "code": 62142,
-        "name": "user-circle"
+        "name": "user-circle-light"
       },
       "setIdx": 2,
       "setId": 2,
@@ -5585,7 +5585,7 @@
         "order": 691,
         "ligatures": "",
         "prevSize": 32,
-        "name": "chevron-circle-up1",
+        "name": "chevron-circle-up-regular",
         "code": 61755
       },
       "setIdx": 3,
@@ -5612,7 +5612,7 @@
         "order": 690,
         "ligatures": "",
         "prevSize": 32,
-        "name": "chevron-circle-down1",
+        "name": "chevron-circle-down-regular",
         "code": 61756
       },
       "setIdx": 3,
@@ -6003,7 +6003,7 @@
         "ligatures": "",
         "prevSize": 32,
         "code": 62143,
-        "name": "user-circle1"
+        "name": "user-circle-regular"
       },
       "setIdx": 3,
       "setId": 1,
@@ -7956,7 +7956,7 @@
         "order": 692,
         "ligatures": "",
         "prevSize": 32,
-        "name": "chevron-circle-up2",
+        "name": "chevron-circle-up-solid",
         "code": 61757
       },
       "setIdx": 4,
@@ -7983,7 +7983,7 @@
         "order": 693,
         "ligatures": "",
         "prevSize": 32,
-        "name": "chevron-circle-down2",
+        "name": "chevron-circle-down-solid",
         "code": 61758
       },
       "setIdx": 4,
@@ -8374,7 +8374,7 @@
         "ligatures": "",
         "prevSize": 32,
         "code": 62144,
-        "name": "user-circle2"
+        "name": "user-circle-solid"
       },
       "setIdx": 4,
       "setId": 0,
