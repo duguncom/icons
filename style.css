@@ -412,6 +412,9 @@
 .icon-user-circle-light:before {
   content: "\f2be";
 }
+.icon-utensils-light:before {
+  content: "\f2e7";
+}
 .icon-sign-out-light:before {
   content: "\f2f5";
 }
@@ -432,6 +435,9 @@
 }
 .icon-comment-dots-light:before {
   content: "\f4a3";
+}
+.icon-wine-glass-light:before {
+  content: "\f4e3";
 }
 .icon-award-light:before {
   content: "\f559";
@@ -670,6 +676,9 @@
 .icon-user-circle-regular:before {
   content: "\f2bf";
 }
+.icon-utensils-regular:before {
+  content: "\f2e8";
+}
 .icon-sign-out-regular:before {
   content: "\f2f7";
 }
@@ -690,6 +699,9 @@
 }
 .icon-comment-dots-regular:before {
   content: "\f4a4";
+}
+.icon-wine-glass-regular:before {
+  content: "\f4e4";
 }
 .icon-award-regular:before {
   content: "\f55a";
@@ -928,6 +940,9 @@
 .icon-user-circle-solid:before {
   content: "\f2c0";
 }
+.icon-utensils-solid:before {
+  content: "\f2e9";
+}
 .icon-sign-out-solid:before {
   content: "\f2f9";
 }
@@ -948,6 +963,9 @@
 }
 .icon-comment-dots-solid:before {
   content: "\f4a5";
+}
+.icon-wine-glass-solid:before {
+  content: "\f4e5";
 }
 .icon-award-solid:before {
   content: "\f55b";
