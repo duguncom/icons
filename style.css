@@ -439,6 +439,12 @@
 .icon-wine-glass-light:before {
   content: "\f4e3";
 }
+.icon-user-friends-light:before {
+  content: "\f500";
+}
+.icon-coins-light:before {
+  content: "\f51e";
+}
 .icon-award-light:before {
   content: "\f559";
 }
@@ -703,6 +709,12 @@
 .icon-wine-glass-regular:before {
   content: "\f4e4";
 }
+.icon-user-friends-regular:before {
+  content: "\f501";
+}
+.icon-coins-regular:before {
+  content: "\f51f";
+}
 .icon-award-regular:before {
   content: "\f55a";
 }
@@ -966,6 +978,12 @@
 }
 .icon-wine-glass-solid:before {
   content: "\f4e5";
+}
+.icon-user-friends-solid:before {
+  content: "\f502";
+}
+.icon-coins-solid:before {
+  content: "\f520";
 }
 .icon-award-solid:before {
   content: "\f55b";
