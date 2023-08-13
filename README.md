@@ -23,4 +23,4 @@ Yaptığınız yeni ikon seçimi veya yeni ikon eklemekten bağımsız olarak ik
  Projedeki isimlendirme kurallarına riayet edelim. Light, regular, bold, custom, brands isminde 4 farklı icon grubumuz var. Yeni eklenecek icon isimlerini buna uygun düzenleyelim. Yeni bir icon grubu ekleyecek iseniz de aynı kurallara uyalım.
  
 ## UYARI 3
- *assets\scss\icons\_dugun-icons.scss* bu dosya salt icomoon'un bize verdiği css dosyamız değil. Ufak tefek değişiklikler var. Bu yüzden yeni css dosyası ile değiştirirken dikkatli olun. Sadece icon classlarını değiştirin. Lint etmeyi unutmayın.
+ *assets\scss\common\icons\_dugun-icons.scss* bu dosya salt icomoon'un bize verdiği css dosyamız değil. Ufak tefek değişiklikler var. Bu yüzden yeni css dosyası ile değiştirirken dikkatli olun. Sadece icon classlarını değiştirin. Lint etmeyi unutmayın.
