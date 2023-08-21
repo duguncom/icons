@@ -451,6 +451,9 @@
 .icon-grin-light:before {
   content: "\f580";
 }
+.icon-layer-group-light:before {
+  content: "\f5fd";
+}
 .icon-location-light:before {
   content: "\f601";
 }
@@ -721,6 +724,9 @@
 .icon-grin-regular:before {
   content: "\f581";
 }
+.icon-layer-group-regular:before {
+  content: "\f5fe";
+}
 .icon-location-regular:before {
   content: "\f602";
 }
@@ -990,6 +996,9 @@
 }
 .icon-grin-solid:before {
   content: "\f582";
+}
+.icon-layer-group-solid:before {
+  content: "\f5ff";
 }
 .icon-location-solid:before {
   content: "\f603";
