@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dugun-icons';
-  src: url('fonts/dugun-icons.eot?nxh1d1');
-  src: url('fonts/dugun-icons.eot?nxh1d1#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?nxh1d1') format('truetype'),
-    url('fonts/dugun-icons.woff?nxh1d1') format('woff'),
-    url('fonts/dugun-icons.svg?nxh1d1#dugun-icons') format('svg');
+  src: url('fonts/dugun-icons.eot?1lko7r');
+  src: url('fonts/dugun-icons.eot?1lko7r#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?1lko7r') format('truetype'),
+    url('fonts/dugun-icons.woff?1lko7r') format('woff'),
+    url('fonts/dugun-icons.svg?1lko7r#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -211,6 +211,9 @@
 }
 .icon-home-light:before {
   content: '\f015';
+}
+.icon-sync-light-after:after {
+  content: '\f021';
 }
 .icon-lock-light:before {
   content: '\f023';
@@ -508,6 +511,9 @@
 }
 .icon-home-regular:before {
   content: '\f016';
+}
+.icon-sync-regular-after:after {
+  content: '\f022';
 }
 .icon-lock-regular:before {
   content: '\f025';
@@ -814,6 +820,9 @@
 }
 .icon-home-solid:before {
   content: '\f017';
+}
+.icon-sync-solid-after:after {
+  content: '\f029';
 }
 .icon-lock-solid:before {
   content: '\f027';
