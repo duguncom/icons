@@ -27,3 +27,7 @@ Yaptığınız yeni ikon seçimi veya yeni ikon eklemekten bağımsız olarak ik
  
 ## UYARI 3
  *assets>scss>common>icons>_dugun-icons.scss* bu dosya salt icomoon'un bize verdiği css dosyamız değil. Ufak tefek değişiklikler var. Bu yüzden yeni css dosyası ile değiştirirken dikkatli olun. Sadece icon classlarını değiştirin. Lint etmeyi unutmayın.
+
+## UYARI 4
+icons projesindeki genel değişiklikleri tamamladıktan sonra belirlediğimiz prettier ayarları ile tüm dosyaları formatlamak için aşağıdaki kodu çalıştırın.
+ `npx prettier --write .`

@@ -1,19 +1,19 @@
 {
-    "name": "D\u00fc\u011f\u00fcn.com",
-    "start_url": "https://dugun.com",
-    "icons": [
-        {
-            "src": "https://dugun.com/assets/images/favicons/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "https://dugun.com/assets/images/favicons/android-chrome-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+  "name": "D\u00fc\u011f\u00fcn.com",
+  "start_url": "https://dugun.com",
+  "icons": [
+    {
+      "src": "https://dugun.com/assets/images/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://dugun.com/assets/images/favicons/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
 }
