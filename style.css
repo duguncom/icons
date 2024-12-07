@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'dugun-icons';
-  src: url('fonts/dugun-icons.eot?lcjzv8');
+  src: url('fonts/dugun-icons.eot?14e39b');
   src:
-    url('fonts/dugun-icons.eot?lcjzv8#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?lcjzv8') format('truetype'),
-    url('fonts/dugun-icons.woff?lcjzv8') format('woff'),
-    url('fonts/dugun-icons.svg?lcjzv8#dugun-icons') format('svg');
+    url('fonts/dugun-icons.eot?14e39b#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?14e39b') format('truetype'),
+    url('fonts/dugun-icons.woff?14e39b') format('woff'),
+    url('fonts/dugun-icons.svg?14e39b#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -59,6 +59,9 @@
 }
 .icon-weather-custom-regular:before {
   content: '\e95b';
+}
+.icon-partly-cloudy-light:before {
+  content: '\e909';
 }
 .icon-article-custom-solid:before {
   content: '\e95c';
@@ -339,6 +342,9 @@
 .icon-link-light:before {
   content: '\f0c1';
 }
+.icon-overcast-light:before {
+  content: '\f0c4';
+}
 .icon-copy-light:before {
   content: '\f0c5';
 }
@@ -356,6 +362,9 @@
 }
 .icon-bolt-light:before {
   content: '\f0e7';
+}
+.icon-thundery-outbreaks-possible-light:before {
+  content: '\f0ea';
 }
 .icon-angle-double-down:before {
   content: '\f103';
@@ -404,6 +413,9 @@
 }
 .icon-compass-light:before {
   content: '\f14e';
+}
+.icon-sunny-light:before {
+  content: '\f185';
 }
 .icon-building-light:before {
   content: '\f1ad';
@@ -497,6 +509,30 @@
 }
 .icon-location-light:before {
   content: '\f601';
+}
+.icon-light-rain-light:before {
+  content: '\f73f';
+}
+.icon-heavy-snow-light:before {
+  content: '\f742';
+}
+.icon-light-rain-shower-light:before {
+  content: '\f743';
+}
+.icon-cloudy-light:before {
+  content: '\f744';
+}
+.icon-freezing-fog-light:before {
+  content: '\f74e';
+}
+.icon-mist-light:before {
+  content: '\f74f';
+}
+.icon-moderate-or-heavy-snow-with-wind-light:before {
+  content: '\f761';
+}
+.icon-thundery-outbreaks-possible-light1:before {
+  content: '\f76c';
 }
 .icon-search-regular:before {
   content: '\f003';
@@ -663,6 +699,9 @@
 .icon-link-regular:before {
   content: '\f0c2';
 }
+.icon-overcast-regular:before {
+  content: '\f0ce';
+}
 .icon-copy-regular:before {
   content: '\f0c7';
 }
@@ -680,6 +719,9 @@
 }
 .icon-bolt-regular:before {
   content: '\f0e8';
+}
+.icon-thundery-outbreaks-possible-regular:before {
+  content: '\f0eb';
 }
 .icon-angle-left-regular:before {
   content: '\f10a';
@@ -728,6 +770,9 @@
 }
 .icon-compass-regular:before {
   content: '\f14f';
+}
+.icon-sunny-regular:before {
+  content: '\f186';
 }
 .icon-building-regular:before {
   content: '\f1ae';
@@ -824,6 +869,30 @@
 }
 .icon-location-regular-after:before {
   content: '\f604';
+}
+.icon-light-rain-regular:before {
+  content: '\f740';
+}
+.icon-heavy-snow-regular:before {
+  content: '\f745';
+}
+.icon-light-rain-shower-regular:before {
+  content: '\f746';
+}
+.icon-cloudy-regular:before {
+  content: '\f747';
+}
+.icon-freezing-fog-regular:before {
+  content: '\f750';
+}
+.icon-mist-regular:before {
+  content: '\f751';
+}
+.icon-moderate-or-heavy-snow-with-wind-regular:before {
+  content: '\f762';
+}
+.icon-thundery-outbreaks-possible-regular1:before {
+  content: '\f76d';
 }
 .icon-search-solid:before {
   content: '\f00a';
@@ -987,6 +1056,9 @@
 .icon-link-solid:before {
   content: '\f0c3';
 }
+.icon-overcast-solid:before {
+  content: '\f0cf';
+}
 .icon-copy-solid:before {
   content: '\f0cb';
 }
@@ -1007,6 +1079,9 @@
 }
 .icon-bolt-solid:before {
   content: '\f0e9';
+}
+.icon-thundery-outbreaks-possible-solid:before {
+  content: '\f0ec';
 }
 .icon-angle-left-solid:before {
   content: '\f116';
@@ -1055,6 +1130,9 @@
 }
 .icon-compass-solid:before {
   content: '\f150';
+}
+.icon-sunny-solid:before {
+  content: '\f187';
 }
 .icon-building-solid:before {
   content: '\f1af';
@@ -1151,4 +1229,28 @@
 }
 .icon-location-solid:before {
   content: '\f603';
+}
+.icon-light-rain-solid:before {
+  content: '\f741';
+}
+.icon-heavy-snow-solid:before {
+  content: '\f748';
+}
+.icon-light-rain-shower-solid:before {
+  content: '\f749';
+}
+.icon-cloudy-solid:before {
+  content: '\f74a';
+}
+.icon-freezing-fog-solid:before {
+  content: '\f752';
+}
+.icon-mist-solid:before {
+  content: '\f753';
+}
+.icon-moderate-or-heavy-snow-with-wind-solid:before {
+  content: '\f763';
+}
+.icon-thundery-outbreaks-possible-solid1:before {
+  content: '\f76e';
 }
