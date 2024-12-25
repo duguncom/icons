@@ -1,7 +1,8 @@
 @font-face {
   font-family: 'dugun-icons';
-  src:  url('fonts/dugun-icons.eot?qrhfyb');
-  src:  url('fonts/dugun-icons.eot?qrhfyb#iefix') format('embedded-opentype'),
+  src: url('fonts/dugun-icons.eot?qrhfyb');
+  src:
+    url('fonts/dugun-icons.eot?qrhfyb#iefix') format('embedded-opentype'),
     url('fonts/dugun-icons.ttf?qrhfyb') format('truetype'),
     url('fonts/dugun-icons.woff?qrhfyb') format('woff'),
     url('fonts/dugun-icons.svg?qrhfyb#dugun-icons') format('svg');
