@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'dugun-icons';
-  src: url('fonts/dugun-icons.eot?bbq7td');
+  src: url('fonts/dugun-icons.eot?qrhfyb');
   src:
-    url('fonts/dugun-icons.eot?bbq7td#iefix') format('embedded-opentype'),
-    url('fonts/dugun-icons.ttf?bbq7td') format('truetype'),
-    url('fonts/dugun-icons.woff?bbq7td') format('woff'),
-    url('fonts/dugun-icons.svg?bbq7td#dugun-icons') format('svg');
+    url('fonts/dugun-icons.eot?qrhfyb#iefix') format('embedded-opentype'),
+    url('fonts/dugun-icons.ttf?qrhfyb') format('truetype'),
+    url('fonts/dugun-icons.woff?qrhfyb') format('woff'),
+    url('fonts/dugun-icons.svg?qrhfyb#dugun-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,6 +27,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-share-rounded-bottom-light:before {
+  content: '\e90a';
+}
 .icon-x-twitter-custom:before {
   content: '\e907';
 }
@@ -650,6 +653,9 @@
 }
 .icon-calendar-regular:before {
   content: '\f074';
+}
+.icon-random:before {
+  content: '\f0bb';
 }
 .icon-comment-regular:before {
   content: '\f076';
