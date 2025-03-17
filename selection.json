@@ -4810,7 +4810,7 @@
         "attrs": []
       },
       "attrs": [],
-      "properties": { "order": 849, "id": 1575, "prevSize": 32, "code": 61800, "name": "thumbs-down1" },
+      "properties": { "order": 849, "id": 1575, "prevSize": 32, "code": 61800, "name": "thumbs-down-after" },
       "setIdx": 3,
       "setId": 1,
       "iconIdx": 289
