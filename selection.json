@@ -7448,7 +7448,7 @@
         "attrs": []
       },
       "attrs": [],
-      "properties": { "order": 854, "id": 1576, "prevSize": 32, "code": 62302, "name": "external-link-alt1" },
+      "properties": { "order": 854, "id": 1576, "prevSize": 32, "code": 62302, "name": "external-link-alt-after" },
       "setIdx": 4,
       "setId": 0,
       "iconIdx": 577
